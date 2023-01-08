@@ -10,10 +10,10 @@ const Hero = () => {
         alt="hero"
         className="absolute h-full w-full object-cover"
       />
-      <div className="relative max-w-[1240px] px-8 lg:px-0 h-[100%] grid lg:grid-cols-2 mx-auto items-center">
+      <div className="relative max-w-[1240px] px-8 py-8 lg:px-0 h-[100%] grid lg:grid-cols-2 mx-auto items-center">
         <div className="flex flex-col items-center">
           <h1 className="text-3xl font-bold py-2 md:text-4xl">Último evento</h1>
-          <h2 className="text-xl py-2">
+          <h2 className="text-xl py-2 text-center">
             Web3, NFT y Metaverso | Oportunidades y retos
           </h2>
           <iframe
