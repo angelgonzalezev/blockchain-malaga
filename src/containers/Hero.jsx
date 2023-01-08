@@ -33,7 +33,7 @@ const Hero = () => {
           <h3 className="text-xl py-4 text-center italic">
             Ya somos más de 700 personas en la comunidad 🚀✌️
           </h3>
-          <button className="px-6 py-4 rounded-md bg-mainColor font-bold text-xl hover:scale-105 duration-300">
+          <button className="px-8 py-4 rounded-md bg-mainColor font-bold text-xl hover:scale-105 duration-300">
             ¡Únete a la comunidad! 🚀
           </button>
         </div>
