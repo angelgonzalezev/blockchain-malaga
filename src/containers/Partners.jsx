@@ -9,9 +9,9 @@ import Cointelegraph from "../assets/cointelegraph.png";
 
 const Partners = () => {
   return (
-    <div className="mx-auto py-12 px-4 flex flex-col items-center">
-      <div className="flex flex-col items-center max-w-[1240px]">
-        <h1 className="text-3xl font-bold py-4">
+    <div className="mx-auto px-4 flex flex-col items-center">
+      <div className="flex flex-col items-center max-w-[1240px] py-12">
+        <h1 className="text-3xl font-bold py-4 text-center">
           # Porque la unión hace la fuerza
         </h1>
         <p className="py-4 text-center text-xl">
@@ -33,44 +33,46 @@ const Partners = () => {
           mucho más.
         </p>
         <p className="font-bold py-4">Desde Málaga con ❤️</p>
-        <h2 className="text-3xl font-bold py-4">Colaboradores 👋</h2>
       </div>
-      <div className="grid grid-cols-2 gap-6 md:grid-cols-7 items-center">
-        <img
-          className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
-          src={Demium}
-          alt="demium"
-        />
-        <img
-          className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
-          src={Polo}
-          alt="polo"
-        />
-        <img
-          className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
-          src={Scaleway}
-          alt="scaleway"
-        />
-        <img
-          className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
-          src={TB}
-          alt="territorio bitcoin"
-        />
-        <img
-          className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
-          src={BIC}
-          alt="be in crypto"
-        />
-        <img
-          className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
-          src={BlockchainRadio}
-          alt="blockchain radio"
-        />
-        <img
-          className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
-          src={Cointelegraph}
-          alt="cointelegraph"
-        />
+      <div className="flex flex-col items-center py-12">
+        <h2 className="text-3xl font-bold py-6">Colaboradores 👋</h2>
+        <div className="grid grid-cols-2 gap-6 md:grid-cols-7 items-center ">
+          <img
+            className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
+            src={Demium}
+            alt="demium"
+          />
+          <img
+            className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
+            src={Polo}
+            alt="polo"
+          />
+          <img
+            className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
+            src={Scaleway}
+            alt="scaleway"
+          />
+          <img
+            className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
+            src={TB}
+            alt="territorio bitcoin"
+          />
+          <img
+            className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
+            src={BIC}
+            alt="be in crypto"
+          />
+          <img
+            className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
+            src={BlockchainRadio}
+            alt="blockchain radio"
+          />
+          <img
+            className="w-[150px] object-contain hover:scale-150 duration-300 px-2"
+            src={Cointelegraph}
+            alt="cointelegraph"
+          />
+        </div>
       </div>
     </div>
   );
