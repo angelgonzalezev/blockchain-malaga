@@ -1,10 +1,10 @@
 import React from "react";
 import Hero from "./containers/Hero";
-import Partners from "./containers/Partners";
-import Services from "./containers/Services";
-import Sidebar from "./containers/Sidebar";
-import Footer from "./containers/Footer";
-import Warning from "./containers/Warning";
+import Partners from "./pages/home/containers/Partners";
+import Services from "./pages/home/containers/Services";
+import Sidebar from "./pages/home/containers/Sidebar";
+import Footer from "./pages/home/containers/Footer";
+import Warning from "./pages/home/containers/Warning";
 
 function App() {
   return (

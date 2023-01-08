@@ -1,5 +1,5 @@
 import React from "react";
-import MobileMockup from "../assets/mobilemockup.png";
+import MobileMockup from "../../../assets/mobilemockup.png";
 
 const Services = () => {
   return (

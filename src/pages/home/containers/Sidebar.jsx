@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../assets/horizontal-logo.png";
+import Logo from "../../../assets/horizontal-logo.png";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 
 const Sidebar = () => {

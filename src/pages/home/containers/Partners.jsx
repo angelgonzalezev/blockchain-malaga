@@ -1,11 +1,11 @@
 import React from "react";
-import Demium from "../assets/demium.png";
-import Polo from "../assets/polo.png";
-import Scaleway from "../assets/scaleway.png";
-import TB from "../assets/territoriobtc.png";
-import BIC from "../assets/beincrypto.png";
-import BlockchainRadio from "../assets/blockchainradio.jpg";
-import Cointelegraph from "../assets/cointelegraph.png";
+import Demium from "../../../assets/demium.png";
+import Polo from "../../../assets/polo.png";
+import Scaleway from "../../../assets/scaleway.png";
+import TB from "../../../assets/territoriobtc.png";
+import BIC from "../../../assets/beincrypto.png";
+import BlockchainRadio from "../../../assets/blockchainradio.jpg";
+import Cointelegraph from "../../../assets/cointelegraph.png";
 
 const Partners = () => {
   return (
