@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/blockchain-malaga/static/css/main.efc2fd13.css",
+    "main.js": "/blockchain-malaga/static/js/main.d8810718.js",
+    "static/media/hero-image.png": "/blockchain-malaga/static/media/hero-image.d4e3853158f93de36c09.png",
+    "static/media/mobilemockup.png": "/blockchain-malaga/static/media/mobilemockup.5b609dcd7604248250d6.png",
+    "static/media/people.png": "/blockchain-malaga/static/media/people.b3ca3bd17b3bf40db7a4.png",
+    "static/media/polo.png": "/blockchain-malaga/static/media/polo.976bda86af3ba935ee7d.png",
+    "static/media/horizontal-logo.png": "/blockchain-malaga/static/media/horizontal-logo.bfa4205fd0f983d82410.png",
+    "index.html": "/blockchain-malaga/index.html",
+    "main.efc2fd13.css.map": "/blockchain-malaga/static/css/main.efc2fd13.css.map",
+    "main.d8810718.js.map": "/blockchain-malaga/static/js/main.d8810718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc2fd13.css",
+    "static/js/main.d8810718.js"
+  ]
+}
