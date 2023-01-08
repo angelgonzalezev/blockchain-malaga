@@ -12,19 +12,19 @@ const Sidebar = () => {
           <img src={Logo} alt="logo" className="w-full" />
         </div>
         <ul className="hidden md:flex items-center">
-          <li className="px-4 py-2 font-semibold text-mainColor hover:border-b-2 hover:border-mainColor hover:text-black">
+          <li className="px-4 py-2 font-semibold text-mainColor hover:border-b-2 hover:border-mainColor hover:text-black text-xl">
             Inicio
           </li>
-          <li className="px-4 py-2 font-semibold text-mainColor hover:border-b-2 hover:border-mainColor hover:text-black">
+          <li className="px-4 py-2 font-semibold text-mainColor hover:border-b-2 hover:border-mainColor hover:text-black text-xl">
             Eventos
           </li>
-          <li className="px-4 py-2 font-semibold text-mainColor hover:border-b-2 hover:border-mainColor hover:text-black">
+          <li className="px-4 py-2 font-semibold text-mainColor hover:border-b-2 hover:border-mainColor hover:text-black text-xl">
             Directorio
           </li>
-          <li className="px-4 py-2 font-semibold text-mainColor hover:border-b-2 hover:border-mainColor hover:text-black">
+          <li className="px-4 py-2 font-semibold text-mainColor hover:border-b-2 hover:border-mainColor hover:text-black text-xl">
             Aprender
           </li>
-          <li className="px-4 py-2 font-semibold text-mainColor hover:border-b-2 hover:border-mainColor hover:text-black">
+          <li className="px-4 py-2 font-semibold text-mainColor hover:border-b-2 hover:border-mainColor hover:text-black text-xl">
             Contacto
           </li>
         </ul>
