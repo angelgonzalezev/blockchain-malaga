@@ -1,5 +1,5 @@
 const Airtable = require("airtable");
-const base = new Airtable({ apiKey: "keyeXdmrUK9uiPnw1" }).base(
+const base = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY }).base(
   "appXTu26GG3tTAqt1"
 );
 
